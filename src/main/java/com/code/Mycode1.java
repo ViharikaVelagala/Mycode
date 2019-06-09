@@ -3,9 +3,6 @@ package com.code;
 public class Mycode1 {
 
 	public static void main(String[] args) {
-		
-		;
-		
 		System.out.println(fun());
 		fun();
 	}
